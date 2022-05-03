@@ -1,0 +1,285 @@
+.fondoBody{
+    margin: 0%;
+
+}
+.fondoCabecera{
+    background: url(img/fondoCafe2.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 900px;
+    margin: 0%;
+}
+.nav{
+    background-color:#e63573;
+    opacity: 40%;
+    height: 80px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    
+}
+
+.divBotones{
+    justify-content:flex-end;
+
+}
+.botones{
+    
+    color: #FFFFF2;
+    font-size: 40px;
+    font-weight: bolder;
+    text-decoration: none;
+    position: top 0px;  
+    margin: 30px;
+    font-style: oblique;
+}
+
+.icono{
+    width: 50px;
+    margin-top: 5px;
+    margin-left: 10px;
+    position: absolute;
+}
+.titulo{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 0px;
+    color: #FFFFF2;
+    font-style: oblique;
+    top: 0px;
+    
+}
+.fondoT{
+    background-color: #f4abc5;
+    display: flex;
+    justify-content: center;
+    
+    width: 300px;
+    height: 170px;
+    border-radius: 0px 0px 15px 15px;
+    border-top:  rgb(226, 111, 167) 2px solid ;
+
+    
+    
+    
+}
+.titulo{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+}
+.casero{
+    width: 600px;
+    height: 285px;
+    display: flex;
+    margin: 0px;
+    justify-content: end;
+    margin-top: 0px;
+    margin-left: 70px;
+
+   
+    
+
+}
+.chicaConCafe{
+    width: 600px;
+    height: 285px;
+    margin: 0;
+    display: flex;
+    justify-content: end;
+    margin-left: 70px;
+    
+
+}
+.imagenesHead{
+    height: 510px;
+    margin-top: 20px;
+    
+}
+.fondoTextoC{
+    background-color: #FFFFE5 ;
+    width: 580px;
+    height: 290px;
+    position: absolute;
+    justify-content: center;
+    display: flex;
+    border-radius: 0px 15px 15px 0px;
+    
+}
+.FTCdiv{
+    width: 1250px;
+    height: 190px;
+    display: flex;
+    position: absolute;
+    margin-top: 150px;
+    justify-content: end;
+}
+.tituloArtesanal{
+    font-style: oblique;
+    height: 30px;
+    width: 300px;
+    text-align:end;
+    font-size: 30px;
+}
+.textoArtesanal{
+    text-align: center;
+    height: 90px;
+    font-size: 20px;
+    width: 350px;
+}
+.seccion1{
+    background-color: #FFFFe5;
+    height: 950px;
+    margin-top: 0%;
+    border-top: #fafa82 4px solid;
+}
+.sub1{
+    text-align: center;
+    font-style: oblique;
+    margin: 0%;
+    text-decoration: underline;
+    font-size: 40px;
+}
+.fondoMenuD1{
+    height: 100px;
+    width: auto;
+    display: flex;
+    margin-top: 80px;
+
+}
+.divRosaI{
+    display: flex;
+    align-items: center;
+    margin-left: 220px;
+    margin-top: 0px ;
+
+}
+.backRosaI{
+    background-color: #f4abc5;
+    border-right: rgb(226, 111, 167) 4px solid;
+    height: 100px;
+    width: 500px;
+    text-align: center;
+    font-style: oblique;
+    border-radius: 0px 15px 15px 0px;
+    font-size: 25px;
+    
+}
+.img{
+    width: 239px;
+    height: 160px;
+    border-radius: 10px;
+}
+.fondoMenuDD{
+    height: 100px;
+    width: auto;
+    display: flex;
+    justify-content: end;
+    
+}
+.divRosaD{
+    display: flex;
+    align-items: center;
+    margin-right: 220px;
+    margin-top: 15px;
+
+}
+.fondoMenuDD{
+    height: 100px;
+    width: auto;
+    display: flex;
+    justify-content: end;
+    
+}
+.backRosaD{
+    background-color: #f4abc5;
+    border-left: rgb(226, 111, 167) 4px solid;
+    font-size: 25px;
+    height: 100px;
+    width: 500px;
+    text-align: center;
+    font-style: oblique;
+    border-radius: 15px 0px 0px 15px;
+}
+.seccion2{
+    background-color: #f4abc5;
+    height: 680px;
+    margin-top: 0%;
+    border-top: rgb(226, 111, 167) 4px solid;
+}
+.sub2{
+    text-align: center;
+    font-style: oblique;
+    margin: 0%;
+    text-decoration: underline;
+    font-size: 40px;
+}
+.backRosaI2{
+    background-color: #FFFFe5;
+    border-right: rgb(226, 111, 167)  4px solid;
+    font-size: 25px;
+    height: 100px;
+    width: 500px;
+    text-align: center;
+    font-style: oblique;
+    border-radius: 0px 15px 15px 0px;
+    
+}
+.backRosaD2{
+    background-color: #FFFFe5;
+    border-left: rgb(226, 111, 167)  4px solid;
+    font-size: 25px;
+    height: 100px;
+    width: 500px;
+    text-align: center;
+    font-style: oblique;
+    border-radius: 15px 0px 0px 15px;
+}
+.footer{
+    width: 100%;
+    height: 250px;
+    background-color: rgb(66, 64, 64);
+    display: flex;
+    border-top:  black 4px outset;
+
+}
+.titulos{
+    display: flex;
+    height: 150px;
+    width: 100%;
+    justify-content: space-around;
+    font-size: 35px;
+    font-style: oblique;
+    font-weight: 600;
+    color: white;
+    text-align: center;
+    
+}
+.titulosFooter{
+    border-bottom: white 3px solid;
+    height:45px;
+
+}
+.lista{
+    list-style: none;
+    text-align: center;
+    font-size: 30px;
+}
+.listaU{
+    padding: 0px;
+}
+.iconos{
+    height: 35px;
+}
+.listaN{
+    color: black;
+    list-style: none;
+    font-size: 25px;
+    font-style:italic;
+    margin: 5px;
+}
+.BlistaN{
+    color: black;
+    text-decoration: none;
+}
